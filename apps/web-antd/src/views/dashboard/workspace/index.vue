@@ -58,7 +58,7 @@ const projectItems: WorkbenchProjectItem[] = [
   },
   {
     color: '#bf0c2c',
-    content: '热情和欲望可以突破一切难关。',
+    content: '热情和欲望可以突破一切难关。 ',
     date: '2021-04-01',
     group: 'UI',
     icon: 'ion:logo-angular',
